@@ -39,12 +39,17 @@ body {
   display: flex;
 }
 
-.sidebar-links {
-  margin: 0;
-  width: 220px;
-  height: 100%;
+article {
   padding: 30px;
   padding-top: 85px;
+}
+
+.sidebar-links {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 220px;
+  height: 100%;
   border-right: 1px solid #1b1d20;
   background: #f9fafb;
   display: flex;
