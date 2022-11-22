@@ -19,6 +19,8 @@
   color: #1b1d20;
   font-family: MessinaSans, sans-serif;
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   /* border: 2px solid red; */
 }
 
@@ -39,15 +41,15 @@ body {
   display: flex;
 }
 
-article {
-  padding: 30px;
-  padding-top: 85px;
+aside {
+  height: 100vh;
 }
 
 .sidebar-links {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  padding-top: 86px;
+  padding-left: 30px;
   width: 220px;
   height: 100%;
   border-right: 1px solid #1b1d20;
