@@ -32,6 +32,7 @@ a {
   text-decoration: none;
 }
 
+/* Sidebar */
 .sidebar-links a:hover {
   color: #929dad;
 }
@@ -68,6 +69,8 @@ aside {
   gap: 7px;
 }
 
+/* Header */
+
 .header-links {
   margin: 0;
   padding: 0;
@@ -80,19 +83,12 @@ aside {
   gap: 100px;
 }
 
-.content {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
+/* Content */
 article {
+  max-width: 800px;
   padding: 0;
-  padding-left: 200px;
-  display: flex;
-  flex-direction: column wrap;
+  padding-left: 50px;
+  padding-top: 20px;
 }
 
 .title {
