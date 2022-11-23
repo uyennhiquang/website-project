@@ -84,6 +84,9 @@ aside {
 }
 
 /* Content */
+.content {
+  width: 100%;
+}
 article {
   max-width: 800px;
   padding: 0;
