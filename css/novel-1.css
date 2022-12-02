@@ -132,6 +132,17 @@ mark {
   max-width: 600px;
 }
 
-.read {
-  padding: 10px 28px;
+.read-button {
+  background-color: white;
+  border: 1px solid #1b1d20;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.read-button:hover {
+  background-color: #e7e7e7;
 }
