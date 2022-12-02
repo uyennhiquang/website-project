@@ -88,10 +88,10 @@ aside {
 }
 
 article {
-  max-width: 800px;
+  max-width: 44.4rem;
   padding: 0;
-  padding-left: 50px;
-  padding-top: 60px;
+  padding-left: 2.7rem;
+  padding-top: 3.3rem;
 }
 
 .directory {
@@ -108,21 +108,21 @@ mark {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 36px;
+  gap: 2rem;
 }
 
 .novel-info img {
-  width: 280px;
+  width: 15.5rem;
 }
 
 .read-button {
   background-color: white;
-  border: 1px solid #1b1d20;
-  padding: 15px 32px;
+  border: 0.0056rem solid #1b1d20;
+  padding: 0.833rem 1.8rem;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 0.9rem;
   cursor: pointer;
 }
 
@@ -132,21 +132,21 @@ mark {
 
 /* Right container */
 .title {
-  font-size: 60px;
+  font-size: 3.3rem;
 }
 
 .novel-info {
-  margin-top: 40px;
+  margin-top: 2.2rem;
   display: flex;
-  gap: 80px;
+  gap: 4.4rem;
 }
 
 .novel-description {
-  gap: 20px;
+  gap: 1.1rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
-  max-width: 600px;
+  max-width: 33.3rem;
 }
 
 hr {
