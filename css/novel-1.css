@@ -94,8 +94,44 @@ article {
   padding-top: 60px;
 }
 
-.current-page {
+.directory {
+  color: #6a6f76;
 }
+
+mark {
+  background-color: transparent;
+  color: #705429;
+}
+
 .title {
   font-size: 60px;
+}
+
+.novel-info {
+  margin-top: 40px;
+  display: flex;
+  gap: 80px;
+}
+
+.novel-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+}
+
+.novel-info img {
+  width: 280px;
+}
+
+.novel-description {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  max-width: 600px;
+}
+
+.read {
+  padding: 10px 28px;
 }
