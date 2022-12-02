@@ -103,16 +103,7 @@ mark {
   color: #705429;
 }
 
-.title {
-  font-size: 60px;
-}
-
-.novel-info {
-  margin-top: 40px;
-  display: flex;
-  gap: 80px;
-}
-
+/* Left container */
 .novel-left {
   display: flex;
   flex-direction: column;
@@ -124,15 +115,6 @@ mark {
   width: 280px;
 }
 
-.novel-description {
-  gap: 20px;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-  max-width: 600px;
-}
-
-/* Bottom half */
 .read-button {
   background-color: white;
   border: 1px solid #1b1d20;
@@ -146,4 +128,23 @@ mark {
 
 .read-button:hover {
   background-color: #e7e7e7;
+}
+
+/* Right container */
+.title {
+  font-size: 60px;
+}
+
+.novel-info {
+  margin-top: 40px;
+  display: flex;
+  gap: 80px;
+}
+
+.novel-description {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  max-width: 600px;
 }
