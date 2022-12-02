@@ -63,10 +63,10 @@ aside {
 .novel-links {
   margin: 0;
   padding: 0;
-  padding-left: 20px;
+  padding-left: 1.2em;
   display: flex;
   flex-direction: column;
-  gap: 7px;
+  gap: 0.3rem;
 }
 
 /* Header */
