@@ -148,3 +148,13 @@ mark {
   flex-shrink: 0;
   max-width: 33.3rem;
 }
+
+hr {
+  margin: 1rem 0;
+}
+
+.chapters {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
