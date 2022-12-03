@@ -90,13 +90,19 @@ article {
   padding-top: 3.3rem;
 }
 
-.directory {
-  color: #6a6f76;
-}
+/* .directory {
+  color: #705429;
+} 
 
-mark {
+/* mark {
   background-color: transparent;
   color: #705429;
+} */
+
+/* Breadcrumb */
+.breadcrumbs {
+  display: flex;
+  gap: 0.2rem;
 }
 
 /* Left container */
