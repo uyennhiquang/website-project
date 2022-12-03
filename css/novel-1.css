@@ -47,7 +47,7 @@ aside {
   background: #f9fafb;
   padding-top: 3.5rem;
   padding-left: 2rem;
-  width: 12rem;
+  max-width: 12rem;
 }
 
 .sidebar-links {
