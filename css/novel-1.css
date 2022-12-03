@@ -43,18 +43,14 @@ body {
 }
 
 aside {
-  height: 100vh;
-}
-
-.sidebar-links {
-  margin: 0;
-  padding: 0;
+  border-right: 1px solid #1b1d20;
+  background: #f9fafb;
   padding-top: 3.5rem;
   padding-left: 2rem;
   width: 12rem;
-  height: 100%;
-  border-right: 1px solid #1b1d20;
-  background: #f9fafb;
+}
+
+.sidebar-links {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
@@ -83,12 +79,11 @@ aside {
 }
 
 /* Content */
-.content {
+/* .content {
   width: 100%;
-}
+} */
 
 article {
-  max-width: 44.4rem;
   padding: 0;
   padding-left: 2.7rem;
   padding-top: 3.3rem;
