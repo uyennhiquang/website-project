@@ -32,9 +32,8 @@ a {
   text-decoration: none;
 }
 
-/* Sidebar */
-.sidebar-links a:hover {
-  color: #929dad;
+a:hover {
+  color: #4b6584;
 }
 
 body {
