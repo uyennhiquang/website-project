@@ -54,7 +54,7 @@ aside {
 .sidebar-links {
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.6rem;
 }
 
 .novel-links {
@@ -63,7 +63,7 @@ aside {
   padding-left: 1.2em;
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.6rem;
 }
 
 /* Header */
