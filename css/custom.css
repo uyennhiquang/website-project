@@ -10,3 +10,7 @@ a {
 ul {
   padding-left: 0;
 }
+
+p {
+  padding-bottom: 0;
+}
