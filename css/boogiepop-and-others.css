@@ -158,6 +158,10 @@ hr {
   margin: 1rem 0;
 }
 
+.chapters-container {
+  margin-top: 2rem;
+}
+
 .chapters {
   display: flex;
   flex-direction: column;
