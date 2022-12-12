@@ -103,6 +103,14 @@ main {
   width: 30.6rem;
 }
 
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
 #suema {
   width: 30.6rem;
   height: 16.4rem;
