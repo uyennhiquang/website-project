@@ -91,10 +91,11 @@ main {
   font-size: 3.3rem;
 }
 
-.series-container {
+.description-container {
   display: flex;
   align-items: center;
   gap: 4.2rem;
+  margin-bottom: 2.5rem;
 }
 
 .series-container img {
@@ -108,3 +109,4 @@ main {
   flex-shrink: 0;
   width: 30.6rem;
 }
+
