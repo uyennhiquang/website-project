@@ -118,8 +118,7 @@ main {
   flex-shrink: 0;
 }
 
-#kadono-icon {
-  width: 18.3rem;
+#kadono-icon {  
   object-fit: cover;
   flex-shrink: 0;
 }
