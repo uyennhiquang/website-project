@@ -126,6 +126,8 @@ main {
 .newcomer-container {
   background-color: #1b1d20;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 5.5rem;
 }
 
