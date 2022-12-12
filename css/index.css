@@ -123,6 +123,7 @@ main {
   flex-shrink: 0;
 }
 
+/* newcomer section */
 .newcomer-container {
   background-color: #1b1d20;
   display: flex;
@@ -136,5 +137,21 @@ main {
   color: white;
 }
 
+.read-button {
+  background-color: white;
+  border: none;
+  color: #1b1d20;
+  padding: 1rem 1.7rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
 
-
+.read-button:hover {
+  background-color: #1b1d20;
+  border: 1px solid white;
+  color: white;
+}
