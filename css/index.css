@@ -98,15 +98,23 @@ main {
   margin-bottom: 2.5rem;
 }
 
-.series-container img {
+.description {
+  flex-shrink: 0;
+  width: 30.6rem;
+}
+
+#suema {
   width: 30.6rem;
   height: 16.4rem;
   object-fit: cover;
   flex-shrink: 0;
 }
 
-.description {
+#kadono-icon {
+  width: 18.3rem;
+  object-fit: cover;
   flex-shrink: 0;
-  width: 30.6rem;
 }
+
+
 
