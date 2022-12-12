@@ -91,3 +91,8 @@ main {
   font-size: 3.3rem;
 }
 
+.series-container img {
+  width: 30.6rem;
+  height: 16.4rem;
+  object-fit: cover;
+}
