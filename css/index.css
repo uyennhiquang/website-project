@@ -129,7 +129,8 @@ main {
   padding: 5.5rem;
 }
 
-.newcomer-container.description {
+.newcomer-container .description h1,
+.newcomer-container .description p {
   color: white;
 }
 
