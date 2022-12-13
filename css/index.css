@@ -164,8 +164,15 @@ footer{
 }
 
 footer p {
-  color: white;
   display: inline-block;
+}
+
+.footer-link a {
+  color: white;
+}
+
+.footer-link a:hover {
+  text-decoration: underline;
 }
 
 .footer-link {
@@ -181,4 +188,3 @@ footer p {
   padding-left: 1rem;
   border-left: 1px solid white;
 }
-
