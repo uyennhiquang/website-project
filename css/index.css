@@ -167,3 +167,17 @@ footer p {
   color: white;
   display: inline-block;
 }
+
+.footer-link {
+  margin-right: 1rem;
+}
+
+.home {
+  padding-right: 1rem;
+  border-right: 1px solid white;
+}
+
+.about {
+  padding-left: 1rem;
+  border-left: 1px solid white;
+}
