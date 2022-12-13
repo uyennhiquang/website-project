@@ -156,3 +156,14 @@ main {
   color: white;
 }
 
+/* Footer */
+footer{
+  padding: 3rem 0;
+  background-color: gray;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+  display: inline-block;
+}
