@@ -72,6 +72,7 @@ aside {
 /* Header */
 .header-links {
   margin: 0;
+  margin-bottom: 2rem;
   padding: 0;
   font-size: 1.1rem;
   padding-left: 10rem;
@@ -89,13 +90,13 @@ aside {
 
 main {
   margin: 0 auto;
-  max-width: 70rem;
-  padding: 3.3rem 4rem 0 4rem;
+  max-width: 70%;
+  /* padding: 3.3rem 4rem 0 4rem; */
 }
 
 /* .directory {
   color: #705429;
-} 
+}
 
 /* mark {
   background-color: transparent;
@@ -108,6 +109,10 @@ main {
   gap: 0.2rem;
 }
 
+/* Novel info container */
+.novel-info {
+  margin-top: 4rem;
+}
 /* Left container */
 .novel-left {
   display: flex;
@@ -141,16 +146,15 @@ main {
 }
 
 .novel-info {
-  margin-top: 2.2rem;
   display: flex;
-  gap: 4.4rem;
+  justify-content: space-between;
 }
 
 .novel-description {
   gap: 1.1rem;
   display: flex;
   flex-direction: column;
-  max-width: 33.3rem;
+  max-width: 70%;
 }
 
 hr {
