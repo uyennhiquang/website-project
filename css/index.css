@@ -135,6 +135,12 @@ main {
   padding: 5.5rem;
 }
 
+.description.newcomer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .newcomer-container .description h1,
 .newcomer-container .description p {
   color: white;
