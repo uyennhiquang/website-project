@@ -125,11 +125,13 @@ main {
 
 /* newcomer section */
 .newcomer-container {
+  margin: 0 auto;
   background-color: #1b1d20;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 5.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 }
 
 .description.newcomer {
