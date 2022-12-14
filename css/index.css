@@ -140,6 +140,10 @@ main {
   color: white;
 }
 
+.newcomer {
+  width: 40rem;
+}
+
 .read-button {
   background-color: white;
   border: none;
