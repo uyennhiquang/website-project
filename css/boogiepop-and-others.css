@@ -158,6 +158,11 @@ main {
   flex-direction: column;
 }
 
+.author {
+  margin-bottom: 2rem;
+}
+
+/* Chapters */
 hr {
   margin: 1rem 0;
 }
