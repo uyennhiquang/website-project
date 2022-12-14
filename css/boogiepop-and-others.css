@@ -114,9 +114,11 @@ main {
 .novel-info {
   margin-top: 4rem;
 }
+
 /* Left container */
 .novel-left {
   display: flex;
+  margin-right: 2rem;
   flex-direction: column;
   align-items: center;
   gap: 2rem;
@@ -148,14 +150,12 @@ main {
 
 .novel-info {
   display: flex;
-  justify-content: space-between;
 }
 
 .novel-description {
   gap: 1.1rem;
   display: flex;
   flex-direction: column;
-  max-width: 60%;
 }
 
 hr {
