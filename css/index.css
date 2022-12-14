@@ -80,6 +80,9 @@ aside {
   gap: 5.5rem;
 }
 
+.header-link {
+  font-size: 1rem;
+}
 /* Content */
 main {
   margin: 0 auto;
