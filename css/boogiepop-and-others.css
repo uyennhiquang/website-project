@@ -40,6 +40,7 @@ a:hover {
 
 body {
   margin: 0;
+  line-height: 1.2;
   display: flex;
 }
 
@@ -153,7 +154,6 @@ main {
 }
 
 .novel-description {
-  gap: 1.1rem;
   display: flex;
   flex-direction: column;
 }
