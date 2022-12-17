@@ -111,6 +111,17 @@ main {
   gap: 0.2rem;
 }
 
+/* Translated section */
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid black;
+}
+
+
+
 /* Footer */
 footer{
   padding: 3rem 0;
