@@ -79,3 +79,9 @@
     display: flex;
     gap: 4.5rem;
   }
+
+  /* Breadcrumb */
+.breadcrumbs {
+  display: flex;
+  gap: 0.2rem;
+}
