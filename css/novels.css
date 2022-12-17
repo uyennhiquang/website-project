@@ -134,6 +134,11 @@ main {
   border-radius: 0;
 }
 
+.card-body h5:hover {
+  color: #4b6584;
+  text-decoration: underline;
+}
+
 /* Footer */
 footer{
   padding: 3rem 0;
