@@ -120,7 +120,9 @@ main {
   border-bottom: 1px solid black;
 }
 
-
+.section-cards {
+  margin-top: 3rem;
+}
 
 /* Footer */
 footer{
