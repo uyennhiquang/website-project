@@ -139,6 +139,15 @@ main {
   text-decoration: underline;
 }
 
+.brightness {
+  background-color: white;
+  display: inline-block;
+
+}
+.brightness img:hover {
+  opacity: .8;
+}
+
 /* Footer */
 footer{
   padding: 3rem 0;
