@@ -123,6 +123,10 @@ main {
 .section-cards {
   margin-top: 3rem;
 }
+ 
+.col-md-4 {
+  width: 15%; /* Adjusting how much space the thumbnail takes up in relation to the card container */
+}
 
 /* Footer */
 footer{
