@@ -74,6 +74,11 @@ header {
   align-items: center;
 }
 
+.header-logo {
+  position: absolute;
+  left: 3%
+}
+
 .header-links {
   margin: 0;
   padding: 0;
