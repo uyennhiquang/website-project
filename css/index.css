@@ -71,6 +71,7 @@ aside {
 header {
   display: flex;
   border-bottom: 1px solid #1D1E1F;
+  height: 4rem;
   align-items: center;
 }
 
@@ -84,7 +85,12 @@ header {
   padding: 0;
   font-size: 1rem;
   display: flex;
-  gap: 4.5rem;
+  /* gap: 4.5rem; */
+  flex: 1;
+}
+
+.header-links p {
+  padding: 0 2rem;
 }
 
 /* Content */
