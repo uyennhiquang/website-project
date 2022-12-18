@@ -188,3 +188,36 @@ hr {
   flex-direction: column;
   gap: 1rem;
 }
+
+/* Footer */
+footer{
+  padding: 3rem 0;
+  background-color: gray;
+  text-align: center;
+}
+
+footer p {
+  display: inline-block;
+}
+
+.footer-link a {
+  color: white;
+}
+
+.footer-link a:hover {
+  text-decoration: underline;
+}
+
+.footer-link {
+  margin-right: 1rem;
+}
+
+.home {
+  padding-right: 1rem;
+  border-right: 1px solid white;
+}
+
+.about {
+  padding-left: 1rem;
+  border-left: 1px solid white;
+}
