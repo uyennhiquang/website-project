@@ -133,9 +133,10 @@ main {
 .section-cards {
   margin-top: 3rem;
 }
- 
+
 .col-md-4 {
-  width: 15%; /* Adjusting how much space the thumbnail takes up in relation to the card container */
+  width: 15%;
+  /* Adjusting how much space the thumbnail takes up in relation to the card container */
 }
 
 .card.mb-3 {
@@ -155,12 +156,13 @@ main {
   display: inline-block;
 
 }
+
 .brightness img:hover {
   opacity: .8;
 }
 
 /* Footer */
-footer{
+footer {
   padding: 3rem 0;
   background-color: gray;
   text-align: center;

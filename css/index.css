@@ -129,7 +129,7 @@ main {
   flex-shrink: 0;
 }
 
-#kadono-icon {  
+#kadono-icon {
   object-fit: cover;
   flex-shrink: 0;
 }
@@ -178,7 +178,7 @@ main {
 }
 
 /* Footer */
-footer{
+footer {
   padding: 3rem 0;
   background-color: gray;
   text-align: center;
