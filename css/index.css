@@ -83,10 +83,8 @@ header {
 .header-links {
   margin-left: 20%;
   padding: 0;
-  font-size: 1rem;
+  font-size: 1.15rem;
   display: flex;
-  /* gap: 4.5rem; */
-  flex: 1;
 }
 
 .header-links p {
