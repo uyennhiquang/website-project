@@ -1,9 +1,12 @@
 # website-project
 To self: 
+
 Remove flex-shrink: 0 from flex children so they can resize
+
 Set width: 100% for newcomer-container
 
 Add a container surrounding description-container divs
+
 Add these styling: 
 .descriptions-container {
   width: 100%;
