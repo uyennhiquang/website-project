@@ -110,7 +110,6 @@ main {
 }
 
 .description {
-  flex-shrink: 0;
   width: 30.6rem;
 }
 
@@ -126,12 +125,10 @@ main {
   width: 30.6rem;
   height: 16.4rem;
   object-fit: cover;
-  flex-shrink: 0;
 }
 
 #kadono-icon {
   object-fit: cover;
-  flex-shrink: 0;
 }
 
 /* newcomer section */
