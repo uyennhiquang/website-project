@@ -72,7 +72,9 @@ header {
   display: flex;
   border-bottom: 1px solid #1D1E1F;
   height: 4rem;
+
   align-items: center;
+  margin-bottom: 2rem;
 }
 
 .header-logo {
@@ -92,14 +94,21 @@ header {
 }
 
 /* Content */
-main {
-  margin: 0 auto;
-  max-width: 70rem;
-  padding: 3.3rem 4rem 0 4rem;
+.content.container-fluid {
+  display: flex;
+  flex-direction: column;
 }
 
 .title {
   font-size: 3.3rem;
+}
+
+.descriptions-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .description-container {
@@ -110,7 +119,7 @@ main {
 }
 
 .description {
-  width: 30.6rem;
+  max-width: 30.6rem;
 }
 
 .left {
@@ -133,14 +142,14 @@ main {
 
 /* newcomer section */
 .newcomer-container {
-  margin: 0 auto;
+  width: 100%;
   background-color: #1b1d20;
   padding: 5.5rem;
+
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  width: 100%;
 }
 
 .description.newcomer {
@@ -152,10 +161,6 @@ main {
 .newcomer-container .description h1,
 .newcomer-container .description p {
   color: white;
-}
-
-.newcomer {
-  width: 40rem;
 }
 
 .read-button {
