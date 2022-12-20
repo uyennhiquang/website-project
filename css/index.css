@@ -63,15 +63,6 @@ aside {
   gap: 0.6rem;
 }
 
-.novel-links {
-  margin: 0;
-  padding: 0;
-  padding-left: 1.2em;
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-}
-
 /* Header */
 header {
   display: flex;
