@@ -41,6 +41,10 @@ body {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 /* Sidebar */
 aside {
   border-right: 1px solid #1D1E1F;
