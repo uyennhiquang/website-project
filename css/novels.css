@@ -124,6 +124,10 @@ main {
 }
 
 /* Translated section */
+.section-container {
+  margin-bottom: 6rem;
+}
+
 .section-title {
   font-size: 1.5rem;
   font-weight: 700;
